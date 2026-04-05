@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   const bestFriend = {
-    name: "Dr Menaga Korangu 💫",
+    name: "dr frnd 💫",
   };
 
   const messages = [
