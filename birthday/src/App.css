@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ff758c, #ff7eb3);
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+  color: white;
+}
+
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background-color: white;
+  color: #ff4b8b;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #ffe4ec;
+}
+
+.wish {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
